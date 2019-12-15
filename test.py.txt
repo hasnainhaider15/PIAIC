@@ -1,0 +1,2 @@
+print("SUNNY")
+print(5+3)
